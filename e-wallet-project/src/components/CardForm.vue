@@ -57,6 +57,8 @@
                 <option value="23">23</option>
                 <option value="24">24</option>
                 <option value="25">25</option>
+                <option value="26">26</option>
+                <option value="27">27</option>
             </select>
         </div>
         <div class="form-vendor col-2">

@@ -19,7 +19,7 @@ new Vue({
         },
         {
           id: "432984728392",
-          holder: "Petter Svenson",
+          holder: "Debraj Das",
           vendor: "bitcoin",
           number: "1232434565475487",
           validMonth: "12",
@@ -28,7 +28,7 @@ new Vue({
         },
         {
           id: "432984728393",
-          holder: "Eric Ericsson",
+          holder: "Avishek Das",
           vendor: "ninja",
           number: "5846096837542854",
           validMonth: "12",
@@ -37,7 +37,7 @@ new Vue({
         },
         {
           id: "432984728394",
-          holder: "Rickard Wallin",
+          holder: "Rajib Das",
           vendor: "evil",
           number: "3454675864356785",
           validMonth: "12",
