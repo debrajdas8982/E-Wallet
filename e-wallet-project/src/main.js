@@ -10,7 +10,7 @@ new Vue({
       cards: [
         {
           id: "432984728397",
-          holder: "Nils Holmenberg",
+          holder: "Debraj Das",
           vendor: "blockchain",
           number: "2222233233388768",
           validMonth: "12",
@@ -19,7 +19,7 @@ new Vue({
         },
         {
           id: "432984728392",
-          holder: "Debraj Das",
+          holder: "Tanya Ghosh",
           vendor: "bitcoin",
           number: "1232434565475487",
           validMonth: "12",
